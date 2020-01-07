@@ -48,7 +48,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Developer / DevOps"
+  description = "Yago's personal page"
   keywords = ""
   images = [""]
   img = "/images/yo.png"
