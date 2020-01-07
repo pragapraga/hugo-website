@@ -1,7 +1,6 @@
 ---
 title: "About"
 url: "/about"
-slug: "what"
 author: Yago Rogatto
 ---
 
@@ -14,9 +13,11 @@ Some of my hobbies are skateboarding, play videogames and read (I love comic boo
 
 ### Valemobi / TradeMap
 - __DevOps Intern (02/2019 - 10/2019)__
+
 > As a DevOps intern I used to use some tools such as LXD, Docker, Kuberneter, Cattle, Rancher, Telegraf, InfluxDB and Git. Additionally, developed solutions for internal ChatOps, GitLab CI/CD solutions, performance monitors and indicators and also eventually help with development and production environments problems.
 
 - __Junior Developer Analyst (10/2019 - now)__
+
 > As a junior analyst developer I develop in some languages as GoLang, Java, Kotlin and SQL, but my responsibilities goes further than just develop. I'm engaged in process profiling projects, profiling such as network connection, processing time and query executions using tools as WireShark and YourKit. I also keeped some of my DevOps responsibilities, such as working with containerization and helping people all around the office with it too.
 
 ## Tech Skills and Tools
