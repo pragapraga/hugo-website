@@ -85,7 +85,7 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoText      = "$ cd /"
     # logoTextColor = "#008000"
-    logoHomeLink  = "localhost:80/"
+    logoHomeLink  = "/"
     # Set to a valid CSS color to change the cursor in the logo.
     # logoColor     = "#008000" 
 
