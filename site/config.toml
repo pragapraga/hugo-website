@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://localhost:80/"
 title   = "Yago Rogatto"
 
 DefaultContentLanguage = "en"
@@ -48,7 +48,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Developer / DevOps"
   keywords = ""
   images = [""]
   img = "/images/yo.png"
@@ -85,7 +85,7 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoText      = "$ cd /"
     # logoTextColor = "#008000"
-    logoHomeLink  = "/"
+    logoHomeLink  = "localhost:80/"
     # Set to a valid CSS color to change the cursor in the logo.
     # logoColor     = "#008000" 
 
