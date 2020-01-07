@@ -5,7 +5,7 @@ RUN hugo new site site
 WORKDIR /site
 COPY site/ .
 RUN git init && \
- git clone https://github.com/yaguetto/hugo-theme-hello-friend-ng themes/hello-friend-ng/ && \
+ git submodule add https://github.com/yaguetto/hugo-theme-hello-friend-ng themes/hello-friend-ng/ && \
  hugo
 ENTRYPOINT [ "hugo", "server", "--bind=hugo", "--baseUrl=http://yaguetto.tech/", "--port=80" ]
 
