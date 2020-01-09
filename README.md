@@ -1,6 +1,7 @@
 # My hugo website
 
 Dependencies:
+- docker
 - docker-compose
 
 To run:
