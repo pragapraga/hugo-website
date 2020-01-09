@@ -55,6 +55,8 @@ disableHugoGeneratorInject = false
 
   homeSubtitle = "Developer / DevOps"
 
+  sourceCode = "https://github.com/yaguetto/hugo-website"
+
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
@@ -119,6 +121,7 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
+    description = "Yago's personal page"
     identifier = "about"
     name       = "About"
     url        = "about/"
