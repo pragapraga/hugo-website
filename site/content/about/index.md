@@ -5,7 +5,7 @@ author: Yago Rogatto
 ---
 
 ## A Little About Me
-Hi, I'm Yago Rogatto Leme, I'm from São Paulo, Brazil, I'm {{< age >}} years old and I work with technology since 2018. I'm a focused, extroverted, creative and proative person. I love to learn about new things. My favorite subjects are math and technology so I’m really good with numbers and with logical reasoning. Some of my hobbies are skateboarding, playing videogames and reading (I love comic books).
+Hi, I'm Yago Rogatto Leme, I'm from São Paulo, Brazil, I'm {{< age >}} years old and I work with technology since 2018. I'm a focused, extroverted, creative and proactive person. I love to learn about new things. My favorite subjects are math and technology so I’m really good with numbers and with logical reasoning. Some of my hobbies are skateboarding, playing videogames and reading (I love comic books).
 
 ## Working Experience
 
