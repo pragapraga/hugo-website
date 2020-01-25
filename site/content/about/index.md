@@ -19,7 +19,7 @@ Hi, I'm Yago Rogatto Leme, I'm from São Paulo, Brazil, I'm {{< age >}} years ol
 > As a junior analyst developer I develop in some languages as GoLang, Java, Kotlin and SQL, but my responsibilities goes further than just develop. I'm engaged in process profiling projects, profiling such as network connection, processing time and query executions using tools as WireShark and YourKit. I also keeped some of my DevOps responsibilities, such as working with containerization and helping people all around the office with it too.
 
 ## Tech Skills and Tools
-```GoLang``` ```Git``` ```Linux``` ```Kubernetes``` ```Docker``` ```Klotin``` ```Python``` ```SQL``` ```C#``` ```HTML``` ```Java```
+```GoLang``` ```Git``` ```Linux``` ```Kubernetes``` ```Docker``` ```Kotlin``` ```Python``` ```SQL``` ```C#``` ```HTML``` ```Java```
 
 ## Languages
 - Portuguese - Native
